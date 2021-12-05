@@ -10,21 +10,9 @@ export default function About() {
       <br />
 
       <p>
-        I am an full stack web developer that has just started my journey of coding. I graduated from the University of Texas at Austin Coding Bootcamp in December of 2020. There, I learned:
+        I am an full stack web developer that has just started my journey of coding. I graduated from the University of Texas at Austin Coding Bootcamp in December of 2020.
         <br />
         <br />
-        <li>React</li>
-        <li>MongoDB</li>
-        <li>JavaScript</li>
-        <li>JQuery</li>
-        <li>HandleBars</li>
-        <li>Bootstrap</li>
-        <li>HTML</li>
-        <li>CSS</li>
-
-        <br />
-        <br />
-
         I graduated from Virginia Military Institute and began a career in the U.S. Army. I became an Armor Officer and served in Fort Benning with a Cavalry unit. After serving my time for my country, I decided to serve my community and moved back to Austin. Here, I started working for a non-profit organization in the medical industry and continued there through the worst of the COVID-19 pandemic.
         <br />
         <br />

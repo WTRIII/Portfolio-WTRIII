@@ -5,14 +5,29 @@ export default function Resume() {
     <div>
       <h1>Resume</h1>
       <p>
-        I graduated from Virginia Military Institute and began a career in the U.S. Army. I became an Armor Officer and served in Fort Benning with a Cavalry unit. After serving my time for my country, I decided to serve my community and moved back to Austin. Here, I started working for a non-profit organization in the medical industry and continued there through the worst of the COVID-19 pandemic. 
-        <br/>
-        <br/>
-        Now, I feel my calling is in tech and so I decided to learn coding. Full stack web development is just the first step in my journey to being in the tech world. 
-        <br/>
-        <br/>
-        When I am not coding or taking care of my cats, you can find me in the gym, moving that weight. I also like to read, socialize with my friends, and chow down on a delicious spaghetti. 
-
+        In addition to being an entry level web developer, I am also an accomplished project manager. I managed a variety of projects in the Army as well as in the medical industry and am familiar with most corporate concepts.
+        <br />
+        <br />
+        Something else that sets me apart from other devs is my ability to talk clearly to anyone. In my past, I needed to talk to and work with people from all walks of life - from Generals to high school graduates, from locals to foreigners. As such, I am comfortable interacting with most people and can publically speak quite well.
+        <br />
+        <br />
+        In terms of languages and skills, I learned the following from the coding bootcamp:
+        <br />
+        <br />
+        <li>React</li>
+        <li>MERN</li>
+        <li>MongoDB</li>
+        <li>JavaScript</li>
+        <li>MySQL</li>
+        <li>JQuery</li>
+        <li>HandleBars</li>
+        <li>Bootstrap</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <br />
+        <br />
+        Please view or download my full resume <a href="link to downloadable resume"> here. </a>
+        {/* add a google drive link */}
       </p>
       <div>
       </div>
