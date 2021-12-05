@@ -1,21 +1,29 @@
 import React from 'react';
+import portfolioImage from '../images/professional-portfolio.jpg';
 
 export default function Home() {
   return (
     <div>
       <h1>Home Page</h1>
+      <img src = {portfolioImage}></img>
+<br/>
+<br/>
+
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-        velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-        ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-        non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-        ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-        rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-        tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-        porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-        vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-        fames ac ante ipsum primis in faucibus.
+        I am an full stack web developer that has just started my journey of coding. I graduated from the University of Texas at Austin Coding Bootcamp in December of 2020. There, I learned:
+<br/>
+<br/>
+<li>React</li>
+<li>MongoDB</li>
+<li>JavaScript</li>
+<li>JQuery</li>
+<li>HandleBars</li>
+<li>Bootstrap</li>
+<li>HTML</li>
+<li>CSS</li>
+
       </p>
+      
     </div>
   );
 }
