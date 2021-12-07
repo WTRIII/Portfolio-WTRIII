@@ -26,8 +26,8 @@ export default function Resume() {
         <li>CSS</li>
         <br />
         <br />
-        Please view or download my full resume <a href="link to downloadable resume"> here. </a>
-        {/* add a google drive link */}
+        Please view or download my full resume <a href="https://my.indeed.com/p/williamr-hxtyrl4"> here. </a>
+
       </p>
       <div>
       </div>
